@@ -1,5 +1,5 @@
 # 미세먼지(PM10) 알림 텔레그램 봇
-공공데이터포털(data.go.kr)의 데이터를 통해 지역별(읍, 면, 동) 미세먼지 양을 텔레그램 메시지를 통해 제공하는 봇입니다. 
+공공데이터포털(data.go.kr)의 데이터를 통해 지역별(읍, 면, 동) 미세먼지 양을 텔레그램 메시지를 통해 제공하는 봇입니다.
 
 
 ## 저작권 (Copyright, Copyleft)
@@ -11,14 +11,15 @@ I strongly inform the above mentions, therefore the sources of the Bot are under
 
 
 ## 이 봇에 대한 기타 설명
-이 봇 최신 소스는 현재 텔레그램 내 미세봇(@TellMisebot)으로 활동중입니다. 부족하지만 많은 이용 부탁드립니다.
-미세봇을 초대 또는 그룹 초대하여, "/ㅁㅅ 읍면동명"을 입력하면, 봇이 자동으로 현재 미세먼지 상황을 알려줍니다.
+테스트용 봇인 미세봇(@TellMisebot)은 현재 작동이 되고 있지 않습니다.
+미세봇을 직접 구동하신 후에, 초대 또는 그룹 초대하여,
+"/ㅁㅅ 읍면동명"을 입력하면, 봇이 자동으로 현재 미세먼지 상황을 알려줍니다.
 
-기타 자세한 정보는 gom2.net에서 다루고 있습니다.
-(https://gom2.net/page-about-tellmisebot/)
+기타 자세한 정보는 곰곰이오 블로그에서 다루고 있습니다.
+(https://blog.gomgom.io/page-about-tellmisebot/)
 
 
-## Appendix 1: GPL v3 License 
+## Appendix 1: GPL v3 License
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

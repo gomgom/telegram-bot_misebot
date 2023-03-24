@@ -15,8 +15,8 @@ I strongly inform the above mentions, therefore the sources of the Bot are under
 미세봇을 직접 구동하신 후에, 초대 또는 그룹 초대하여,
 "/ㅁㅅ 읍면동명"을 입력하면, 봇이 자동으로 현재 미세먼지 상황을 알려줍니다.
 
-기타 자세한 정보는 곰곰이오 블로그에서 다루고 있습니다.
-(https://blog.gomgom.io/page-about-tellmisebot/)
+기타 자세한 정보는 곰곰 블로그에서 다루고 있습니다.
+(https://blog.gomgom.net/page-about-tellmisebot/)
 
 
 ## Appendix 1: GPL v3 License
